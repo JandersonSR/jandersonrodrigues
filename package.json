@@ -2,7 +2,7 @@
   "name": "prjportifoliov2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JandersonSR.github.io/portifolio",
+  "homepage": "https://jandersonsr.github.io/jandersonportifolio",
   "dependencies": {
     "@react-spring/web": "^9.0.0-rc.3",
     "@rooks/use-window-size": "^3.6.0",
