@@ -1,6 +1,5 @@
 {
   "name": "prjportifoliov2",
-  "homepage": "https://jandersonsr.github.io/jandersonrodrigues/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,16 +22,18 @@
     "react-three-fiber": "^5.1.7",
     "rooks": "^3.6.0",
     "sass": "^1.29.0",
+    "serve": "^11.3.2",
     "three": "^0.122.0",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start", 
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": [
