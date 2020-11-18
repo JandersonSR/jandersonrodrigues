@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/jandersonrodrigues/static/css/main.fe25f73b.chunk.css",
-    "main.js": "/jandersonrodrigues/static/js/main.4f7e31da.chunk.js",
-    "main.js.map": "/jandersonrodrigues/static/js/main.4f7e31da.chunk.js.map",
-    "runtime-main.js": "/jandersonrodrigues/static/js/runtime-main.855440a9.js",
-    "runtime-main.js.map": "/jandersonrodrigues/static/js/runtime-main.855440a9.js.map",
-    "static/css/2.0bae969b.chunk.css": "/jandersonrodrigues/static/css/2.0bae969b.chunk.css",
-    "static/js/2.7779938d.chunk.js": "/jandersonrodrigues/static/js/2.7779938d.chunk.js",
-    "static/js/2.7779938d.chunk.js.map": "/jandersonrodrigues/static/js/2.7779938d.chunk.js.map",
-    "static/js/3.2d0ae62b.chunk.js": "/jandersonrodrigues/static/js/3.2d0ae62b.chunk.js",
-    "static/js/3.2d0ae62b.chunk.js.map": "/jandersonrodrigues/static/js/3.2d0ae62b.chunk.js.map",
-    "index.html": "/jandersonrodrigues/index.html",
-    "static/css/2.0bae969b.chunk.css.map": "/jandersonrodrigues/static/css/2.0bae969b.chunk.css.map",
-    "static/css/main.fe25f73b.chunk.css.map": "/jandersonrodrigues/static/css/main.fe25f73b.chunk.css.map",
-    "static/js/2.7779938d.chunk.js.LICENSE.txt": "/jandersonrodrigues/static/js/2.7779938d.chunk.js.LICENSE.txt",
-    "static/media/projects.scss": "/jandersonrodrigues/static/media/robos.a203af0b.png"
+    "main.css": "/JandersonSR/jandersonrodrigues/static/css/main.05a75c24.chunk.css",
+    "main.js": "/JandersonSR/jandersonrodrigues/static/js/main.4f7e31da.chunk.js",
+    "main.js.map": "/JandersonSR/jandersonrodrigues/static/js/main.4f7e31da.chunk.js.map",
+    "runtime-main.js": "/JandersonSR/jandersonrodrigues/static/js/runtime-main.f0c42973.js",
+    "runtime-main.js.map": "/JandersonSR/jandersonrodrigues/static/js/runtime-main.f0c42973.js.map",
+    "static/css/2.0bae969b.chunk.css": "/JandersonSR/jandersonrodrigues/static/css/2.0bae969b.chunk.css",
+    "static/js/2.7779938d.chunk.js": "/JandersonSR/jandersonrodrigues/static/js/2.7779938d.chunk.js",
+    "static/js/2.7779938d.chunk.js.map": "/JandersonSR/jandersonrodrigues/static/js/2.7779938d.chunk.js.map",
+    "static/js/3.2d0ae62b.chunk.js": "/JandersonSR/jandersonrodrigues/static/js/3.2d0ae62b.chunk.js",
+    "static/js/3.2d0ae62b.chunk.js.map": "/JandersonSR/jandersonrodrigues/static/js/3.2d0ae62b.chunk.js.map",
+    "index.html": "/JandersonSR/jandersonrodrigues/index.html",
+    "static/css/2.0bae969b.chunk.css.map": "/JandersonSR/jandersonrodrigues/static/css/2.0bae969b.chunk.css.map",
+    "static/css/main.05a75c24.chunk.css.map": "/JandersonSR/jandersonrodrigues/static/css/main.05a75c24.chunk.css.map",
+    "static/js/2.7779938d.chunk.js.LICENSE.txt": "/JandersonSR/jandersonrodrigues/static/js/2.7779938d.chunk.js.LICENSE.txt",
+    "static/media/projects.scss": "/JandersonSR/jandersonrodrigues/static/media/robos.a203af0b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.855440a9.js",
+    "static/js/runtime-main.f0c42973.js",
     "static/css/2.0bae969b.chunk.css",
     "static/js/2.7779938d.chunk.js",
-    "static/css/main.fe25f73b.chunk.css",
+    "static/css/main.05a75c24.chunk.css",
     "static/js/main.4f7e31da.chunk.js"
   ]
 }
